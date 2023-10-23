@@ -1,12 +1,5 @@
-## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Mace Logo](./resources/Mace%20Logo.png)
+# NOAA/NMFS
+## Midwater Assessment and Conservation Engineering
+The Midwater Assessment and Conservation Engineering Program combines midwater trawl surveys with acoustic echo integration technology to assess the population status of Alaska walleye pollock.  Pollock stocks support the largest single commercial fishery in the United States. We also collect data on Pacific hake stocks in the North Pacific and Bering Seas. Research is also conducted on fishing gear performance and fish behavior during the capture process in order to develop methods to reduce bycatch in commercial fishing operations.
