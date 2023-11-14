@@ -1,12 +1,6 @@
 # Survey Planning
 Looking for survey planning information? Go [here](https://github.com/orgs/noaa-afsc-mace/projects/1/views/1) to find the 2024 planning project.
 
-# MACE survey applications
-
-# Cruise reports
-
-# Survey results
-
 # Conservation Engineering
 
 
